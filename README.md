@@ -1,1 +1,4 @@
 # SoftwareDevelopmentLifeCycle
+Asking clients questions and creating a dialog will help them express what they would like to include in their product.  Their needs can help with the creation of User Stories with the basic functions and expected outcomes.  Who wants do to what to achieve what... can be used to make the User Stories and understand the functionality wanted.  
+To develop programs, creating User Stories will be very helpful to prioritize and estimate sizes and time for programming.  They will also help with structure and organization.  Also, implementing my own testing while programming, will incorporate security and functionality.
+Being a good team member in software development means being transparent, respectful, and responsible.  Communicating with team members is of great importance as is taking care of my tasks and asking for help when I need it.  
